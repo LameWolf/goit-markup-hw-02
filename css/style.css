@@ -95,7 +95,8 @@ ul {
   color: var(--blue-text);
 }
 
-.footer {
+.footer,
+.address {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -181,7 +182,8 @@ ul {
   background-color: #e5e5e5;
 }
 
-.activity-title .team-title {
+.activity-title,
+.team-title {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 700;
